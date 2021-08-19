@@ -1,3 +1,14 @@
+
+lsi: false
+safe: true
+source: ""
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
