@@ -22,7 +22,7 @@ title: Learnings
 email: allisonhletts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is here to document my learnings, particularly around Salesforce. I’ve made it public in case it’s helpful to you, but it’s really for personal use. Pull requests are welcome, but they may or may not be approved.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  allisonletts
 
