@@ -1,25 +1,7 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.529 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β30
-* Thu Aug 19 2021 07:31:34 GMT-0700 (PDT)
-* Source doc: Flow Bootcamp and Best Practices
-* Tables are currently converted to HTML tables.
------>
-
-
+---
+layout: post
+title: Flow Naming Conventions
+---
 
 ### Naming Conventions
 
