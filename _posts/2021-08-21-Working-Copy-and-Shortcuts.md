@@ -7,6 +7,8 @@ So now that I have a place to write, I want a place to do it. I don’t currentl
 
 I’m a firm believer in Apple Shortcuts. This one requires the paid ($20/lifetime) version of Working Copy if you want to be able to push the file back up to a remote. It asks for a title, and then it sets up all of the needed metadata and opens the file up in Working Copy. 
 
+Here’s what it does:
+
 - Prompt for title
 - Set up front matter, with layout of Post
 - Hyphenate title
