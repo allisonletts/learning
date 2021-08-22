@@ -4,6 +4,6 @@
 |GH Markdown |  https://guides.github.com/features/mastering-markdown/ |
 | Working Copy | https://workingcopyapp.com/ |
 
-| StoryGraph| https://app.thestorygraph.com/|
+| StoryGraph | https://app.thestorygraph.com/ |
 
-| Overdrive API for library book searches| https://developer.overdrive.com/apis/search|
+| Overdrive API for library book searches | https://developer.overdrive.com/apis/search |
