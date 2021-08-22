@@ -17,6 +17,8 @@ texture:
   navigation:
     - title: Home
       url: "/"  
+    - title: Reading List
+      url: "/Reading-List.md"
   showPicker: false
   social_links:
     github:  allisonletts
