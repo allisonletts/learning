@@ -14,9 +14,10 @@ texture:
   date_format: "%b %-d, %Y"
   style: purple
   showNav: true
+  navigation:
+    - title: Home
+      url: "/"  
   showPicker: false
-
-
   social_links:
     github:  allisonletts
     linkedIn: in/allisonletts # format: locale/username
