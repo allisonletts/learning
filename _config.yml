@@ -13,7 +13,7 @@ texture:
   title: Allison Letts
   tagline: Learn With Me
   date_format: "%b %-d, %Y"
-  style: texture-purple2
+  style: purple2
   showNav: true
   navigation:
     - title: Home
