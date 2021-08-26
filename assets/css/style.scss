@@ -7,7 +7,8 @@
 
 .texture-purple2 {
     background-image: url('{{ site.baseurl }}/assets/textures/purple2.jpg');
-    background-size: 100% auto;
+    background-repeat:none;
+
 }
 
 .texture-black {
