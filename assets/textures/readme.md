@@ -1,0 +1,1 @@
+texture images are currently set to 500x214 px jpegs. 
