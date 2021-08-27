@@ -6,6 +6,3 @@
 | [StoryGraph](https://app.thestorygraph.com/) |
 | [Overdrive API for library book searches](https://developer.overdrive.com/apis/search) |
 |  [Integromat](https://www.integromat.com/en) |
-
-|  [Test](Example.com) |
-|  [Test2](https://contuity.com) |
