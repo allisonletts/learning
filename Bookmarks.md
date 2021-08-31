@@ -6,3 +6,4 @@
 | [StoryGraph](https://app.thestorygraph.com/) |
 | [Overdrive API for library book searches](https://developer.overdrive.com/apis/search) |
 |  [Integromat](https://www.integromat.com/en) |
+|  [Where vs Having](https://www.geeksforgeeks.org/having-vs-where-clause-in-sql/) |
