@@ -4,7 +4,7 @@ Title: "Learning to Row"
 Published: true
 ---
 
-One thing I’ve been saying a lot recently is, “I’m a consultant. It’s my job to lean new things.” See also: “Learning new things is one of my favorite things to do.”
+One thing I’ve been saying a lot recently is, “I’m a consultant. It’s my job to learn new things.” See also: “Learning new things is one of my favorite things to do.”
 
 At the beginning of this month, I took a Learn to Row class with my husband and my twin (and seven other newbies). With the help of a kind, patient, dedicated, optimistic, and helpful group of 20+ volunteers, we went from never putting an oar in the water to actually **rowing** the boats over the course of four sessions. 
 
