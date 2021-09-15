@@ -1,7 +1,7 @@
 ---
 Layout: post
-Title: "Higher Ed Faker"
-Published: false
+title: "Higher Ed Faker"
+published: false
 ---
 
 - set up for a whole college
