@@ -1,7 +1,7 @@
 ---
 Layout: post
 Title: "Incomplete"
-Published: false
+Published: true
 ---
 
 I’ve been working through some anxiety and depression recently. I work with a coach through [Daydreamers](https://www.daydreamerspace.com) and my coach asked today what’s going through my mind in the moment when I decide to pick up my phone and scroll. My answer? “Being done with a task and not feeling like I want to start something new.” Which like, is true. But also, it seems like the solution is right there. 
