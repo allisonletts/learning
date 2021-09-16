@@ -15,3 +15,12 @@ Published: false
   - flow async: makes setup and tear down of flow interpreter less bad
   - logic in apex and business rules in flows, or somewhere else that analysts can get into
   - one person responsible for layout
+- git 
+  - all the little technical terms—glossary
+  - master and main are the same thing
+  - what does git mean for code sharing and reuse?
+  - what does git mean for team development, multiple people on the same project?
+  - what does it mean for release lifecycle
+    - learn from Aaron about what went wrong at UCCS
+  - is there a good reference for git?
+  - what’s the best place to learn git and sfdx together?
