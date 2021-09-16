@@ -13,4 +13,5 @@ Published: false
   - what does the development pipeline look like when there’s a single huge flow per object?
   - tdtm as the plan for managing automatic updates
   - flow async: makes setup and tear down of flow interpreter less bad
-  - 
+  - logic in apex and business rules in flows, or somewhere else that analysts can get into
+  - one person responsible for layout
